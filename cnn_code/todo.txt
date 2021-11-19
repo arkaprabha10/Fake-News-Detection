@@ -1,0 +1,7 @@
+for all
+1. plot acc, loss
+2. run for 10 iter
+3. embedd
+
+later
+new layers
